@@ -28,7 +28,8 @@ The monster has special abilities, including transforming at will and attacking 
 - The monster uses a third-person view when transformed to better hunt down its prey.
 
 ## Technical Details  
-- Characters are created using *MakeHuman*, while *Blender* and *Unity* are used for modeling and animating both the monster and other game assets.
+- The game engine used is *Unity*
+- Characters are created using *MakeHuman*, while *Blender* and *Mixamo* are used for modeling and animating both the monster and other game assets.
 - Sound design includes a subtle ambient soundtrack to evoke tension, with louder, more intense audio cues when the monster is near. Think of Pyke’s ultimate sound from *League of Legends* for inspiration.
 
 ## Additional Features  
